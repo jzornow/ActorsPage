@@ -1,0 +1,93 @@
+html {
+	background-color:white;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 	font-size:0.9em;
+	margin:auto;
+	font-size:10px;
+	margin:2em;
+	}
+
+div#title {
+	font-size:4em;
+	color:black;
+	position:relative;
+	left:-1em;
+	margin-bottom:0.4em;
+	}
+
+div.resume.content {
+	margin:auto;
+	width:60em;
+	}
+
+
+a {
+	text-decoration:none;
+	}
+
+table {
+	display:block;
+	margin:auto;
+	}
+
+th {
+	font-size:1.4em;
+	font-weight:bold;
+	padding:1em 0em 0.75em 2em;
+	text-align:left;
+	}
+
+td.quality {
+	padding:0em 0.5em 0em 0em;
+	}
+	
+td.value {
+	padding:0em 2em 0em 0em;
+	}
+
+td.name {
+	margin-top:1em;
+	vertical-align:top;
+	width:42%;
+	}
+		
+td.character {
+	width:38%;
+	text-align:left;
+	}
+
+td.production {
+	font-style:italic;
+	margin-bottom:1em;
+	}
+
+td.class {
+	width:38%;
+	text-align:left;
+	}
+
+td.teacher {
+	font-style: italic;
+	margin-bottom:1em;
+	}
+
+td.skillCategory {
+	width:16%;
+	vertical-align:top;
+	}
+td.skill {
+	padding:0.4em 0em;
+	}
+	
+td.resume_h1 {
+	font-weight:bold;
+	padding-top:0.5em;
+	}
+
+td.resume_h1:first {
+	padding-top:0em;
+	}
+	
+td.resume_h2 {
+	padding-left:2em;
+	font-style:italic;
+	}
